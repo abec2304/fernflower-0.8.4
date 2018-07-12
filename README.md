@@ -1,2 +1,5 @@
 # fernflower-0.8.4
 A legacy version of Fernflower.
+
+fernflower.jar
+SHA256: 16478618EFECC18E88DC5EA4FF6EF4C224C0256E0CB29EB70DCF2FEEC172D530
